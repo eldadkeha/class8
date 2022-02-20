@@ -1,0 +1,7 @@
+numpy
+ipywidgets
+nbinteract
+seaborn
+termcolor
+matplotlib
+scipy
